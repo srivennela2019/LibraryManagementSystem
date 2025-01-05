@@ -1,1 +1,13 @@
-/target/
+# Ignore the target folder (for Maven or other build tools)
+target/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Eclipse project files
+.project
+.classpath
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
